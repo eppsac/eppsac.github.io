@@ -1,5 +1,3 @@
-  EPPS Academic Computing | School of Economics, Political and Policy Sciences: Academic Computing
-
 Welcome!
 ========
 
