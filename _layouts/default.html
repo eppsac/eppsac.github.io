@@ -22,7 +22,7 @@
         <nav>
           <ul>
             <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/contact.html' | relative_url }}">Contact US</a></li>
+            <li><a href="{{ '/contact.html' | relative_url }}">Contact Us</a></li>
             <li><a href="{{ '/faq.html' | relative_url }}">Frequently Asked Questions</a></li>
             <li><a href="{{ 'https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceCatalog' }}">Help Desk</a></li>
             {% if site.show_downloads %}
@@ -40,15 +40,18 @@
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
         {{ content }}
 
       </section>
-
+      <section>
+        <div id="footer">
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+      </section>
     </div>
   </body>
 </html>
