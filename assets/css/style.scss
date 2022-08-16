@@ -7,6 +7,14 @@
     background-color: #ffffff00;
 }
 
-#title {
+section #title {
     margin-bottom: 0px;
+}
+
+section #title .credits.left {
+    float: left;
+}
+
+section #title .credits.right {
+    float: right;
 }
