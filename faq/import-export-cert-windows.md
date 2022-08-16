@@ -3,7 +3,7 @@ How to Export/Import Digital Certificates in Windows
 
 When you get a new computer, or have multiple computers, you can export your digital certificate from one computer to another if it was originally installed correctly.
 
-If you follow the steps to export and you can not proceed, it likely means it was not marked as exportable and you’ll likely need to enroll for a new certificate:
+If you follow the steps to export and you can not proceed, it likely means it was not **marked as exportable** and you’ll likely need to enroll for a new certificate:
 
 *   [Enroll, Install, and Publish Digital Certificates on Windows](https://atlas.utdallas.edu/TDClient/30/Portal/KB/ArticleDet?ID=29)
 *   [Enroll and Install Digital Certificates on Mac](https://atlas.utdallas.edu/TDClient/30/Portal/KB/ArticleDet?ID=560)

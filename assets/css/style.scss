@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+    max-width: 800px;
+}
+
+section {
+    max-width: 800px;
+}
+
+a, a:active, a:visited, a:hover {
+    color: #e87500;
+}
+
+#title h1 {
+    padding-bottom: 10px;
+}
+
 #header nav {
     background-color: #ffffff00;
 }
@@ -33,3 +49,19 @@ section #footer .credits.right {
     float: right;
 }
 
+#contact-img img {
+    float: left;
+    width: 200px;
+    margin-right: 40px;
+    margin-bottom: 35px;
+}
+
+#russell-hoffman {
+    margin-top: -15px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

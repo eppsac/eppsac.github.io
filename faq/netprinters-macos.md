@@ -93,7 +93,7 @@ On newer versions of MacOS, some applications, including newer versions of **Fi
 
 In **Firefox**, click **Print using the system dialog:**
 
-![](/images/faq/ricoh-mac/Screen-Shot-2022-04-21-at-8.34.46-AM.png)
+![](/images/faq/ricoh-mac/Screen-Shot-2022-04-21-at-8.34.46-AM-2.png)
 
 In **Adobe Acrobat** click **Printer:**
 
@@ -105,4 +105,4 @@ Then click **Yes** (you may optionally check the box to not show the message a
 
 Then click **Show Details**:
 
-![](/images/faq/ricoh-mac/Screen-Shot-2022-04-21-at-8.36.04-AM.png)
+![](/images/faq/ricoh-mac/Screen-Shot-2022-04-21-at-8.36.04-AM-2.png)
