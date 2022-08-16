@@ -13,7 +13,7 @@ Identify which printer you want to install. Here is a list of the available prin
 
 Next download the driver for your operating system from Ricoh:
 
-[MP 6503SP/7503SP/9003SP Downloads | Ricoh Global](https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mp6503/mp6503.htm)
+[MP 6503SP/7503SP/9003SP Downloads - Ricoh Global](https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mp6503/mp6503.htm)
 
 On **Windows**, you can choose the **PCL6** driver.
 
