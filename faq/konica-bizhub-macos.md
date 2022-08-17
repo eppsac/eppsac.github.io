@@ -15,7 +15,7 @@ Determine your operating system version by going to the Apple menu and selecting
 
 ![](/images/faq/netprinters-mac/driver-install/1.png)
 
-Note the version name and number, **"Monterey" 12.5" in this example:
+Note the version name and number, **Monterey 12.5** in this example:
 
 ![](/images/faq/netprinters-mac/driver-install/2.png)
 
