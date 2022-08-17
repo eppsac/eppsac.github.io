@@ -113,7 +113,7 @@ Then in the **Options** tab, set the following options in the drop-down menus an
 
 ## Copy Code and Presets
 
-On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. To do that can vary by application, but it will commonly look like the below screenshots. 
+On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The stpes to do that can vary by application, but it will commonly look like the below screenshots. 
 
 In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
 
@@ -137,7 +137,7 @@ Give the preset a name, and click **OK**:
 
 ![](/images/faq/netprinters-mac/16.png)
 
-That will take you back to the print dialog box and you an go ahead and cilck **Print** to send the job to the printer:
+That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then cilck **Print** to send the job to the printer:
 
 ![](/images/faq/netprinters-mac/17.png)
 
@@ -145,7 +145,7 @@ That will take you back to the print dialog box and you an go ahead and cilck **
 
 If you are using the printer to the left as you walk in **GR 2.818** (10.152.40.30), you need to use the **Locked Print** function instead of **Normal Print**:
 
-[How To Setup “Locked Print” On The EPPS Network Printers | EPPS Academic Computing](setup-locked-print.html)
+[How To Setup “Locked Print” On The EPPS Network Printers](setup-locked-print.html)
 
 ## Other Applications
 
@@ -187,4 +187,4 @@ Then click **Show Details**:
 
 ## Preset Reminder
 
-This is just a reminder to set a preset when you install a printer and try to print something for the first time. Then you don't have to deal with finding the the right print dialog box or drop-down menu every time you print. As long as you select the correct printer and preset that has the code enabled, it should work.
+This is just a reminder to set a preset when you install a printer and try to print something for the first time. Then you don't have to deal with finding the right print dialog box or drop-down menu every time you print. As long as you select the correct printer and preset that has the code enabled, it should work.
