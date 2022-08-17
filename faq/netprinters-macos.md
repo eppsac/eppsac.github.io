@@ -137,7 +137,9 @@ Give the preset a name, and click **OK**:
 
 ![](/images/faq/netprinters-mac/16.png)
 
-That will take you back to the print dialog box and you an go ahead and cilck **Print** to send the job to the printer.
+That will take you back to the print dialog box and you an go ahead and cilck **Print** to send the job to the printer:
+
+![](/images/faq/netprinters-mac/17.png)
 
 ## Locked Print
 
