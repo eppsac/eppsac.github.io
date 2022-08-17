@@ -1,7 +1,7 @@
 How To Setup The EPPS Network Printers on Windows
 =================================================
 
-There are several network printers which EPPS faculty, staff, lecturers and teaching assistants may use. To use them, you must have a valid copy code. To install them on your computer, follow these steps:
+There are several network printers which EPPS faculty, staff, lecturers, and teaching assistants (who are teaching a course) may use. To use them, you must have a valid copy code. To install them on your computer, follow these steps:
 
 Identify which printer you want to install. Here is a list of the available printers:
 
@@ -17,10 +17,7 @@ Next download the driver for your operating system from Ricoh:
 
 On **Windows**, you can choose the **PCL6** driver.
 
-Windows 10 & 11
----------------
-
-### Extract the Drivers
+## <a name="#drivers"></a>Extract the Drivers ##
 
 Now we need to extract the drivers. First open the **File Explorer**:
 
@@ -46,7 +43,7 @@ Note: If you didn’t change the path, take note of where the files are extracte
 
 If you are installing more than one printer, you only need to download and extract the drivers once. Just repeat the steps for each from this point forward.
 
-### Add the Printer
+## <a name="add-printer"></a>Add the Printer
 
 Open the Control Panel by clicking on the Start menu (Windows icon/logo menu in lower left corner) and type “**control panel**” to search (no need to click on anything, just start typing and then click on the match it finds at the top):
 
@@ -114,7 +111,7 @@ Do not try to print a test page yet (it won’t work); click **Finish**:
 
 ![](/images/faq/Manual-Win10/15.png)
 
-### Set Printing Preferences
+## <a name="printing-prefs"></a>Set Printing Preferences
 
 Right-click on the printer you just installed and choose **Printing Preferences**:
 

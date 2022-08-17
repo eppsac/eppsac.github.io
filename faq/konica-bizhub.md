@@ -1,7 +1,7 @@
 How to Install the Konica Minolta Bizhub 658e in GR3.706
 ========================================================
 
-These instructions are for Windows 10 (x64) UTD computers on the CAMPUS domain. If you are using a Mac or a personal Windows computer, you will need to download and extract the drivers first:  
+These instructions are for Windows 10 (x64) UTD computers on the CAMPUS domain. If you are using a Mac or a personal Windows computer, you will need to download and extract the drivers manually:  
   
 [https://onyxweb.mykonicaminolta.com/OneStopProductSupport?appMode=public&productId=2090&categoryId=1&subCategoryId=ft0](https://onyxweb.mykonicaminolta.com/OneStopProductSupport?appMode=public&productId=2090&categoryId=1&subCategoryId=ft0)
 

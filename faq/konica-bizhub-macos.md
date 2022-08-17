@@ -1,6 +1,8 @@
 How To Setup The Konica bizhub 658e on macOS
 ===============================================
 
+There is a Konica Minolta bizhub 658e network printer which EPPS faculty, staff, lecturers, and teaching assistants may use. To use it, you must have a valid copy code. To install them on your computer, follow these steps:
+
 ## Printer Address
 
 During the setup, you will need the IP address of the printer, which is found below:
@@ -9,9 +11,7 @@ During the setup, you will need the IP address of the printer, which is found be
 
 *   **10.152.42.35** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865))
 
-<a name="#driver"></a>
-
-## Download and Install the Drivers
+## <a name="#driver"></a>Download and Install the Drivers ##
 
 Determine your operating system version by going to the Apple menu and selecting **About This Mac**:
 
@@ -67,9 +67,7 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 
 ![](/images/faq/netprinters-mac/konica/driver-install/14.png)
 
-<a name="#setup"></a>
-
-## Setup Printer
+## <a name="#setup"></a>Setup Printer ##
 
 Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Preferences…**:
 
@@ -113,9 +111,7 @@ A window should open and ask for installed accessories, choose the following opt
 
 ![](/images/faq/netprinters-mac/konica/6.png)
 
-<a name="#code-and-preset"></a>
-
-## Copy Code and Presets
+## <a name="#code-and-preset"></a>Copy Code and Presets ##
 
 On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
 
@@ -149,7 +145,7 @@ That will take you back to the print dialog box. Make sure other options like nu
 
 ![](/images/faq/netprinters-mac/konica/12.png)
 
-## Other Applications
+## <a name="other-apps"></a>Other Applications ##
 
 Other applications may present their own print dialog windows. In those cases, you’ll need to find the option to print using the system dialog window.
 
