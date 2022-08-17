@@ -10,7 +10,8 @@ If you have suggestions for improvements or additional topics to cover, please [
 *   [How To Setup The EPPS Network Printers on Windows](faq/netprinters-windows.html)
 *   [How To Setup The EPPS Network Printers on macOS](faq/netprinters-macos.html)
 *   [How To Setup “Locked Print” On The EPPS Network Printers](faq/setup-locked-print.html)
-*   [How to Install the Konica Minolta Bizhub 658e in GR3.706](faq/konica-bizhub.html)
+*   [How to Setup the Konica Minolta Bizhub 658e on Windows](faq/konica-bizhub.html)
+*   [How to Setup the Konica Minolta Bizhub 658e on macOS](faq/konica-bizhub-macos.html)
 
 ### Other
 

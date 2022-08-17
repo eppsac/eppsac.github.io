@@ -35,7 +35,7 @@ Click the "Download" button to save the file to your computer:
 
 ![](/images/faq/netprinters-mac/driver-install/4.png)
 
-Find the instllation file in Finder, which should be in your Downloads folder with a file extension of ".dmg", for example:
+Find the installation file in Finder, which should be in your Downloads folder with a file extension of ".dmg", for example:
 
 > Ricoh\_PS\_Printers\_Vol4\_EXP\_LIO\_4.0.0.0.dmg
 
@@ -100,8 +100,6 @@ If it is not already selected, click **Select Software…**:
 Type "7503" in the search box and then select **RICOH MP 7503 PS** and press **OK**:
 
 ![](/images/faq/netprinters-mac/9.png)
-
-The next window asks for installed accessories, choose the following options and press **OK**.
 
 That will install the printer. When it's done, click **Options & Supplies**:
 
