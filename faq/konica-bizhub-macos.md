@@ -9,6 +9,8 @@ During the setup, you will need the IP address of the printer, which is found be
 
 *   **10.152.42.35** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865))
 
+<a name="#driver"></a>
+
 ## Download and Install the Drivers
 
 Determine your operating system version by going to the Apple menu and selecting **About This Mac**:
@@ -65,6 +67,8 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 
 ![](/images/faq/netprinters-mac/konica/driver-install/14.png)
 
+<a name="#setup"></a>
+
 ## Setup Printer
 
 Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Preferences…**:
@@ -87,7 +91,7 @@ Next enter the **Address** of the printer you want to connect to, and choose t
 
 ![](/images/faq/netprinters-mac/konica/1.png)
 
-> Note: use the IP address at the top of this page for the printer you want to install.
+> Note: use the IP address at the top of this page for the printer that you want to install.
 
 Change the name to something you will recognize (otherwise it will default to the IP address). You can also choose to enter a room number/location:
 
@@ -97,7 +101,7 @@ In the "Use" drop-down box, click **Select Software…**:
 
 ![](/images/faq/netprinters-mac/konica/3.png)
 
-Type "658e" in the search box and then select *KONICA MINOLTA 658e PS** and press **OK**:
+Type "658e" in the search box and then select **KONICA MINOLTA 658e PS** and press **OK**:
 
 ![](/images/faq/netprinters-mac/konica/4.png)
 
@@ -109,9 +113,11 @@ A window should open and ask for installed accessories, choose the following opt
 
 ![](/images/faq/netprinters-mac/konica/6.png)
 
+<a name="#code-and-preset"></a>
+
 ## Copy Code and Presets
 
-On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The stpes to do that can vary by application, but it will commonly look like the below screenshots. 
+On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
 
 In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
 
@@ -139,7 +145,7 @@ Give the preset a name, and click **OK**:
 
 ![](/images/faq/netprinters-mac/konica/11.png)
 
-That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then cilck **Print** to send the job to the printer:
+That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then click **Print** to send the job to the printer:
 
 ![](/images/faq/netprinters-mac/konica/12.png)
 

@@ -13,6 +13,8 @@ Identify which printer you want to install. Here is a list of the available prin
 *   **10.152.40.29** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the right)
 *   **10.152.40.30** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the left)
 
+<a name="driver"></a>
+
 ## Download and Install the Drivers
 
 Determine your operating system version by going to the Apple menu and selecting **About This Mac**:
@@ -60,6 +62,8 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 ![](/images/faq/netprinters-mac/driver-install/12.png)
 
 ![](/images/faq/netprinters-mac/driver-install/13.png)
+
+<a name="#setup"></a>
 
 ## Setup Printer
 
@@ -109,9 +113,11 @@ Then in the **Options** tab, set the following options in the drop-down menus an
 
 ![](/images/faq/netprinters-mac/11.png)
 
+<a name="#code-and-preset"></a>
+
 ## Copy Code and Presets
 
-On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The stpes to do that can vary by application, but it will commonly look like the below screenshots. 
+On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
 
 In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
 
@@ -135,7 +141,7 @@ Give the preset a name, and click **OK**:
 
 ![](/images/faq/netprinters-mac/16.png)
 
-That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then cilck **Print** to send the job to the printer:
+That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then click **Print** to send the job to the printer:
 
 ![](/images/faq/netprinters-mac/17.png)
 
