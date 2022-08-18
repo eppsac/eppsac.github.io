@@ -10,5 +10,3 @@ Get quick access to help and information at the following pages:
 *   [View the computer lab and other EPPS room schedules](view-room-schedules.html)
 
 Thank you for visiting and please contact us if you have any questions, suggestions, or feedback.
-
-### Methodology Short Courses (Archive)
