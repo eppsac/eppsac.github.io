@@ -7,9 +7,9 @@ If you have suggestions for improvements or additional topics to cover, please [
 
 ### Printing
 
-*   [How To Setup The EPPS Network Printers on Windows](faq/netprinters-windows.html)
-*   [How To Setup The EPPS Network Printers on macOS](faq/netprinters-macos.html)
-*   [How To Setup “Locked Print” On The EPPS Network Printers](faq/setup-locked-print.html)
+*   [How To Setup The Ricoh Network Printers on Windows](faq/netprinters-windows.html)
+*   [How To Setup The Ricoh Network Printers on macOS](faq/netprinters-macos.html)
+*   [How To Setup “Locked Print” On The Ricoh Network Printers](faq/setup-locked-print.html)
 *   [How to Setup the Konica Minolta Bizhub 658e on Windows](faq/konica-bizhub.html)
 *   [How to Setup the Konica Minolta Bizhub 658e on macOS](faq/konica-bizhub-macos.html)
 
