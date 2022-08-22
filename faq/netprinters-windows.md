@@ -17,7 +17,7 @@ Next download the driver for your operating system from Ricoh:
 
 On **Windows**, you can choose the **PCL6** driver.
 
-## <a name="#drivers"></a>Extract the Drivers ##
+## <a name="#drivers"></a>Extract the Drivers
 
 Now we need to extract the drivers. First open the **File Explorer**:
 

@@ -13,7 +13,7 @@ Identify which printer you want to install. Here is a list of the available prin
 *   **10.152.40.29** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the right)
 *   **10.152.40.30** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the left)
 
-## <a name="#driver"></a>Download and Install the Drivers ##
+## <a name="#driver"></a>Download and Install the Drivers
 
 Determine your operating system version by going to the Apple menu and selecting **About This Mac**:
 
@@ -63,7 +63,7 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 
 
 
-## <a name="#setup"></a>Setup Printer ##
+## <a name="#setup"></a>Setup Printer
 
 Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Preferences…**:
 
@@ -111,7 +111,7 @@ Then in the **Options** tab, set the following options in the drop-down menus an
 
 ![](/images/faq/netprinters-mac/11.png)
 
-## <a name="#code-and-preset"></a>Copy Code and Presets ##
+## <a name="#code-and-preset"></a>Copy Code and Presets
 
 On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
 
@@ -147,7 +147,7 @@ If you are using the printer to the left as you walk in **GR 2.818** (10.152.4
 
 [How To Setup “Locked Print” On The EPPS Network Printers](setup-locked-print.html)
 
-## <a name="#other-apps"></a>Other Applications ##
+## <a name="#other-apps"></a>Other Applications
 
 Finding the **Job Log** section can depend on which application you are printing from.
 
