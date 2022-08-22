@@ -51,7 +51,7 @@ Select **Job Log**:
 
 ![](/images/faq/Mac%20Ricoh%20Printing%20Step%202.png)
 
-Then in the **Job Type** drop-down, select **Locked Print** and type your **User ID** and **Password** in, and then press **Print**:
+Then in the **Job Type** drop-down, select **Locked Print** and type your **User ID** (your copy code) and **Password** (the password is: 1234) in, and then press **Print**:
 
 ![](/images/faq/lockedprint/macos-1.png)
 
