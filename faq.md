@@ -7,13 +7,18 @@ If you have suggestions for improvements or additional topics to cover, please [
 
 ### Printing
 
-*   [How To Setup The Ricoh Network Printers on Windows](faq/netprinters-windows.html)
-*   [How To Setup The Ricoh Network Printers on macOS](faq/netprinters-macos.html)
-*   [How To Setup “Locked Print” On The Ricoh Network Printers](faq/setup-locked-print.html)
-*   [How to Setup the Konica Minolta Bizhub 658e on Windows](faq/konica-bizhub.html)
-*   [How to Setup the Konica Minolta Bizhub 658e on macOS](faq/konica-bizhub-macos.html)
+-   Windows
+    -   [How To Setup The Ricoh Network Printers on Windows](faq/netprinters-windows.html)
+    -   [How To Setup The Konica Minolta Bizhub 658e on Windows](faq/konica-bizhub.html)
+    -   [How To Setup “Locked Print” On The Ricoh Network Printers on Windows](faq/setup-locked-print.html)
+-   Mac OS
+    -   [How To Setup The Ricoh Network Printers on macOS](faq/netprinters-macos.html)
+    -   [How To Setup The Konica Minolta Bizhub 658e on macOS](faq/konica-bizhub-macos.html)
+    -   [How To Setup “Locked Print” On The Ricoh Network Printers on macOS](faq/setup-locked-print.html#macos)
 
-### Other
+    
+
+### Other Topics
 
 *   [Export/Import Digital Certificates on Windows](faq/import-export-cert-windows.html)
 *   [GlobalProtect VPN Troubleshooting on Windows](faq/troubleshoot-globalconnect-windows.html)
@@ -23,5 +28,5 @@ If you have suggestions for improvements or additional topics to cover, please [
 ### EPPS Computer Labs
 
 *   [How To Use The EPPS Computer Labs](faq/use-epps-computer-labs.html)
-*   [What are the computer lab policies?](faq/epps-computer-lab-policies.html)
-*   [How to Use the EPPS Lab Computers Remotely](faq/use-epps-computer-labs-remotely.html) (Note: This functionality is currently disabled)
+*   [What Are The EPPS Computer Lab Policies?](faq/epps-computer-lab-policies.html)
+*   [How To Use The EPPS Lab Computers Remotely](faq/use-epps-computer-labs-remotely.html) (Note: This functionality is currently disabled)

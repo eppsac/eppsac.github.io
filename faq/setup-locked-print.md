@@ -55,7 +55,7 @@ Then in the **Job Type** drop-down, select **Locked Print** and type your *
 
 ![](/images/faq/lockedprint/macos-1.png)
 
-Note that you have to do this every time your print, unless you save it as a preset under the **Presets** drop-down menu.
+Note that you have to do this every time your print, unless you save it as a preset under the **Presets** drop-down menu. For more information on creating a Preset, see: [Set Copy Code and Presets on Ricoh Printers](netprinters-macos.html#copy-code-and-presets)
 
 Also, some applications present a compact/minimal print dialog box where the drop-down menu to get to the Job Log settings is not immediately visible. For instance, Firefox, TextEdit, and some other applications use this compact view, if you see this when you try to print, click **Show Details**:
 
