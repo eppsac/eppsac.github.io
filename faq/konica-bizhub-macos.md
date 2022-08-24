@@ -1,7 +1,7 @@
 How To Setup The Konica bizhub 658e on macOS
 ===============================================
 
-There is a Konica Minolta bizhub 658e network printer which EPPS faculty, staff, lecturers, and teaching assistants may use. To use it, you must have a valid copy code. To install them on your computer, follow these steps:
+There is a Konica Minolta bizhub 658e network printer in **GR 3.706** which EPPS faculty, staff, lecturers, and teaching assistants who are teaching a course may use. To use it, you must have a valid copy code. To install them on your computer, follow these steps:
 
 ## Printer Address
 
@@ -23,7 +23,7 @@ Note the version name and number, **Monterey 12.5** in this example:
 
 Open the following URL in a web browser:
 
-[Konica Minolta Business Solutions - bizhub 65e Drivers](https://onyxweb.mykonicaminolta.com/OneStopProductSupport?appMode=public&productId=2090&categoryId=1&subCategoryId=ft0)
+[Konica Minolta Business Solutions - bizhub 658e Drivers](https://onyxweb.mykonicaminolta.com/OneStopProductSupport?appMode=public&productId=2090&categoryId=1&subCategoryId=ft0)
 
 Scroll down the page and click the ">" to expand the section for your version of "Mac OS" - if your exact version isn't listed, try the closest version you can find:
 
