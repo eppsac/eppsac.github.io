@@ -1,7 +1,7 @@
-How To Setup "Locked Print" On The EPPS Network Printers
+How To Setup "Locked Print" On The Ricoh Network Printers
 ========================================================
 
-The EPPS network copiers now use a feature called “Locked Print” that holds your print jobs at the copier until you go to the machine, login with your Comet Card or User ID and Password (this is not your UTD NetID and password), select the **“ELP NX”** icon on the copier screen, and then choose the job(s) you want to print.
+The Ricoh network copier in **GR 2.818 (left)** now uses a feature called “Locked Print” that holds your print jobs at the copier until you go to the machine, login with your Comet Card or User ID and Password (this is not your UTD NetID and password), select the **“ELP NX”** icon on the copier screen, and then choose the job(s) you want to print.
 
 These instructions assume you have the printer installed already. If you haven’t done so, first install the printer using instructions in located in the [Frequently Asked Questions](../faq.html). When you get to the step to insert a **User Code**, you can skip that and use the instructions below to enable **Locked Print**.
 
