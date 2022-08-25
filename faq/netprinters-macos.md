@@ -1,7 +1,7 @@
 How To Setup The Ricoh Network Printers on macOS
 ===============================================
 
-There are several Ricoh network printers which EPPS faculty, staff, lecturers, and teaching assistants (who are teaching a course) may use. To use them, you must have a valid copy code. To install them on your computer, follow these steps:
+There are several Ricoh network printers which EPPS faculty, staff, lecturers, and teaching assistants (who are teaching a course) may use. To use them, you must have a valid copy code. To install them on your computer, follow this guide.
 
 ## Identify Printer
 
