@@ -7,7 +7,7 @@ There are several Ricoh network printers which EPPS faculty, staff, lecturers, a
 
 Identify which printer you want to install. Here is a list of the available printers:
 
-**Note:** Only copy/paste the IP address in **bold**
+**Note:** Only copy/paste the IP address (numbers) in **bold**
 
 *   **10.152.42.25** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865))
 *   **10.152.40.29** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the right)
@@ -113,7 +113,7 @@ Then in the **Options** tab, set the following options in the drop-down menus an
 
 ## <a name="#code-and-preset"></a>Copy Code and Presets
 
-On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
+On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots.
 
 In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
 

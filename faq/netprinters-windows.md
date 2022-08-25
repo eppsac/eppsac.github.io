@@ -5,13 +5,15 @@ There are several Ricoh network printers which EPPS faculty, staff, lecturers, a
 
 Identify which printer you want to install. Here is a list of the available printers:
 
-**Note:** Only copy/paste the IP address in **bold**
+**Note:** Only copy/paste the IP address (numbers) in **bold**
 
 *   **10.152.42.25** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865))
 *   **10.152.40.29** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the right)
 *   **10.152.40.30** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the left)
 
-Next download the driver for your operating system from Ricoh:
+## Download the Drivers
+
+Next, download the driver for your operating system from Ricoh:
 
 [MP 6503SP/7503SP/9003SP Downloads - Ricoh Global](https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mp6503/mp6503.htm)
 
