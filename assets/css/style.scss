@@ -11,6 +11,20 @@ section {
     max-width: 800px;
 }
 
+#header nav ul li a { 
+    color: #e87500; 
+    border: 1px solid #5fe0b7;
+    background: linear-gradient(#154734, #154734);
+    background-color: #154734;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+}
+#header nav ul li a:hover { 
+    background: linear-gradient(#154734, #154734);
+    background-color: #154734;
+    border: 1px solid #5fe0b7;
+}
+
 a, a:active, a:visited, a:hover {
     color: #e87500;
 }
