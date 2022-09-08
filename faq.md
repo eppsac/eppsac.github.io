@@ -20,6 +20,7 @@ If you have suggestions for improvements or additional topics to cover, please [
 
 ### Other Topics
 
+*   [How to Activate Microsoft Office 365 on Campus Computers](faq/work-or-school-account.html)
 *   [Export/Import Digital Certificates on Windows](faq/import-export-cert-windows.html)
 *   [GlobalProtect VPN Troubleshooting on Windows](faq/troubleshoot-globalconnect-windows.html)
 *   [How To View EPPS Room Schedules](faq/view-room-calendars.html)
