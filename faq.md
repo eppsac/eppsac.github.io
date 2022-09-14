@@ -30,4 +30,4 @@ If you have suggestions for improvements or additional topics to cover, please [
 
 *   [How To Use The EPPS Computer Labs](faq/use-epps-computer-labs.html)
 *   [What Are The EPPS Computer Lab Policies?](faq/epps-computer-lab-policies.html)
-*   [How To Use The EPPS Lab Computers Remotely](faq/use-epps-computer-labs-remotely.html) (Note: This functionality is currently disabled)
+*   [How To Use The EPPS Lab Computers Remotely](faq/use-epps-computer-labs-remotely.html) (Note: this functionality is currently disabled)
