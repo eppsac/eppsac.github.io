@@ -18,11 +18,11 @@ As of September 2022, these newer distributions are not officially supported by 
 
 ## Workarounds
 
-I've tested the following two workarounds on both Fedora 36 and Ubuntu 22.04 LTS.
+The following two workarounds have been tested on both Fedora 36 and Ubuntu 22.04 LTS.
 
 ### Workaround: Enable UnsafeLegacyRenegotiation in openssl.cnf
 
-The first workaround is to disable secure renegotiation in **/etc/ssl/openssl.cnf**. I'm using the **nano** text editor in a terminal in the example below. Backup this file before proceeding:
+The first workaround is to disable secure renegotiation in **/etc/ssl/openssl.cnf**. The example below uses the **nano** text editor in a terminal. Backup this file before proceeding:
 
 ```console
 $ sudo cp /etc/ssl/openssl.cnf /etc/ssl/openssl.cnf.bak
@@ -46,13 +46,13 @@ Options = UnsafeLegacyRenegotiation
 # End added to unasfe legacy renegotiation
 ```
 
-When you are finished editing, pressing **Ctrl+X** to exit the nano text editor. Press **Y** when prompted to save the file.
+When you are finished editing, press **Ctrl+X** to exit the nano text editor. Press **Y** when prompted to save the file.
 
 Now you can run the VPN client and it should connect. Note that you do still have to install Google Chrome and set it as your default web browser.
 
 ### Workaround: Install and Use GlobalProtect-openconnect
 
-Rather than degrading OpenSSL system-wide, an alternative solution is to use a different VPN client. I've tested **GlobalProtect-openconnect** on Fedora 36 and Ubuntu 22.04:
+Rather than degrading OpenSSL system-wide, an alternative solution is to use a different VPN client. The **GlobalProtect-openconnect** package has been tested on Fedora 36 and Ubuntu 22.04:
 
 [https://github.com/yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
 
@@ -68,7 +68,7 @@ If the VPN client appears to "hang" after authenticating with Duo, you will need
 
 To do that, first close any open instances of the client. Then open a terminal and run **gpclient**. After Duo authentication, you should see a message in the terminal output about the server not being trusted. Copy the line that is shown that says **"--servercert pin-sha256:[longStringOfCharacters]"** and then press **Ctrl+C** to stop that client. In most GUI terminals, you can copy by highlighting the text and pressing **Ctrl+Shift+C**.
 
-Now open **/etc/gpservice/gp.conf** in a text editor. I'm using the **nano** text editor in a terminal in the example below. Backup this file before proceeding:
+Now open **/etc/gpservice/gp.conf** in a text editor. The example below uses the **nano** text editor in a terminal. Backup this file before proceeding:
 
 ```console
 $ sudo cp /etc/gpservice/gp.conf /etc/gpservice/gp.conf.bak
