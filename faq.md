@@ -23,6 +23,7 @@ If you have suggestions for improvements or additional topics to cover, please [
 *   [How to Activate Microsoft Office 365 on Campus Computers](faq/activate-o365-windows.html)
 *   [Export/Import Digital Certificates on Windows](faq/import-export-cert-windows.html)
 *   [GlobalProtect VPN Troubleshooting on Windows](faq/troubleshoot-globalconnect-windows.html)
+*   [GlobalProtect VPN "SSL Handshake failed" Error on Linux](faq/vpn-ssl-handshake-error.html)
 *   [How To View EPPS Room Schedules](faq/view-room-calendars.html)
 *   [How To Setup A Personal Webpage](faq/personal-webpage.html)
 
