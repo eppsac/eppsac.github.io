@@ -29,7 +29,7 @@ $ sudo cp /etc/ssl/openssl.cnf /etc/ssl/openssl.cnf.bak
 $ sudo nano /etc/ssl/openssl.cnf
 ```
 
-Now add the lines beginning and ending with the comments (\#):
+Now scroll down to the **openssl_init** section and add the lines between the comments (\#):
 
 ```console
 [openssl_init]
