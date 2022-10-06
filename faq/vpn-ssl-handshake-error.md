@@ -82,6 +82,8 @@ Add the following section to that file. When you need to paste the line you copi
 openconnect-args=--servercert pin-sha256:[longStringOfCharacters]
 ```
 
+When you are finished editing, press **Ctrl+X** to exit the nano text editor. Press **Y** when prompted to save the file.
+
 After that, you shouldn’t have to run gpclient from the command line anymore, you can open it from your applications menu/launcher.
  
 References for this workaround:
