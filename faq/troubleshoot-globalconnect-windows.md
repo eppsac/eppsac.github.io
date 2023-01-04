@@ -9,6 +9,7 @@ If you are not connected to VPN, the steps to troubleshoot GlobalProtect are:
 4.  [Restart Windows](#restart-windows)
 5.  [Uninstall and reinstall GlobalProtect](#uninstall-reinstall)
 
+[](#connect)
 **Connect to GlobalProtect**
 
 Check the Windows task tray to see if GlobalProtect is running. If so, you should see a gray globe icon like this:
@@ -29,6 +30,7 @@ Log in there to connect to VPN.
 
 If you do not see the previous **Connect** window, or if you click it and you don’t see the UTD login window, skip to the troubleshooting step to [restart the PanGPS service](#restart-service).
 
+[](#start-globalprotect)
 **Start the GlobalProtect client**
 
 Click on the Windows/Start menu in the bottom left corner of your screen and start typing “GlobalProtect” and it should search for and find the application – click on the **GlobalProtect** app that it finds:
@@ -37,6 +39,7 @@ Click on the Windows/Start menu in the bottom left corner of your screen and sta
 
 Now try to follow the steps to [Connect to GlobalProtect](#connect).
 
+[](#restart-service)
 **Restart the PanGPS service**
 
 Click on the Windows/Start menu in the bottom left corner of your screen and start typing “services” and it should search for and find the application – click on the **Services** app that it finds:
@@ -53,10 +56,12 @@ If the triangle icon is grayed out, click on the square icon to stop the service
 
 The UTD Single-Sign On login window should come up automatically in a few seconds. If it doesn’t, try following the steps to [Connect to GlobalProtect](#connect).
 
-**Restart Windows 10**
+[](#restart-windows)
+**Restart Windows**
 
 Restarting your computer should have the same effect as restarting the PanGPS service and opening GlobalProtect. It can take longer, but may be an easier “one step” option.
 
+[](#uninstall-reinstall)
 **Uninstall and Reinstall GlobalProtect**
 
 If all else fails, try uninstalling GlobalProtect and reinstalling it.
