@@ -14,8 +14,8 @@ If you have suggestions for improvements or additional topics to cover, please [
 -   Mac OS
     -   [How To Setup The Ricoh Network Printers on macOS 13](faq/netprinters-macos.html)
     -   [How To Setup The Konica Minolta Bizhub 658e on macOS 13](faq/konica-bizhub-macos.html)
-    -   [How To Setup The Ricoh Network Printers on macOS 10-12](faq/netprinters-macos-previous-versions.html)
-    -   [How To Setup The Konica Minolta Bizhub 658e on macOS 10-12](faq/konica-bizhub-macos-previous-versions.html)
+    -   [How To Setup The Ricoh Network Printers on macOS 10-12](faq/netprinters-macos-older-versions.html)
+    -   [How To Setup The Konica Minolta Bizhub 658e on macOS 10-12](faq/konica-bizhub-macos-older-versions.html)
     -   [How To Setup “Locked Print” On The Ricoh Network Printers on macOS](faq/setup-locked-print.html#macos)
 
 
