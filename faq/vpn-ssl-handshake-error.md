@@ -56,11 +56,9 @@ Rather than degrading OpenSSL system-wide, an alternative solution is to use a d
 
 [https://github.com/yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect)
 
-My understanding is that it does essentially the same thing as the first workaround, but only for that application, instead of system-wide.
-
 Note: You do not have to install Google Chrome and set it as your default web browser for this to work.
 
-If you are using Fedora 36, and possibly other distributions I haven't tested, installing the package may be enough. If you are using Ubuntu 22.04, and possibly other related distributions, proceed with the further instructions below.
+If you are using Fedora 36, and possibly other distributions, installing the package may be enough. If you are using Ubuntu 22.04, and possibly other related/derived distributions, proceed with the further instructions below.
 
 #### Ubuntu 22.04 LTS
 
@@ -85,7 +83,7 @@ openconnect-args=--servercert pin-sha256:[longStringOfCharacters]
 When you are finished editing, press **Ctrl+X** to exit the nano text editor. Press **Y** when prompted to save the file.
 
 After that, you shouldn’t have to run gpclient from the command line anymore, you can open it from your applications menu/launcher.
- 
+
 References for this workaround:
  
 - [https://github.com/yuezk/GlobalProtect-openconnect/issues/163#issuecomment-1165159733](https://github.com/yuezk/GlobalProtect-openconnect/issues/163#issuecomment-1165159733)
