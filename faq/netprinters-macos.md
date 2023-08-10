@@ -23,7 +23,9 @@ Note the version name and number, "**Monterey 13.4.1**" in this example:
 
 ![](/images/faq/netprinters-mac/ventura-about-this-mac.png)
 
-> If you are using an older version of macOS, some steps may look different.
+If you are using an older version of macOS, some steps will look different. See this page for instructions for older versions:
+
+[How to Setup the Ricoh Network Printers on macOS 11-12](netprinters-macos-older-versions.html)
 
 Open the following URL in a web browser:
 
