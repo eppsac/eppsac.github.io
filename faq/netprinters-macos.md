@@ -19,9 +19,13 @@ Determine your operating system version by going to the Apple menu and selecting
 
 ![](/images/faq/netprinters-mac/driver-install/1.png)
 
-Note the version name and number, "**Monterey 12.5**" in this example:
+Note the version name and number, "**Monterey 13.4.1**" in this example:
 
-![](/images/faq/netprinters-mac/driver-install/2.png)
+![](/images/faq/netprinters-mac/ventura-about-this-mac.png)
+
+If you are using an older version of macOS, some steps will look different. See this page for instructions for older versions:
+
+[How to Setup the Ricoh Network Printers on macOS 10-12](netprinters-macos-older-versions.html)
 
 Open the following URL in a web browser:
 
@@ -29,15 +33,13 @@ Open the following URL in a web browser:
 
 Scroll down the page and expand the "Mac OS X" section and select your version:
 
-![](/images/faq/netprinters-mac/driver-install/3.png)
+![](/images/faq/netprinters-mac/ricoh-driver-os-selection.png)
 
 Click the "Download" button to save the file to your computer:
 
-![](/images/faq/netprinters-mac/driver-install/4.png)
+![](/images/faq/netprinters-mac/ricoh-driver-download.png)
 
 Find the installation file in Finder, which should be in your Downloads folder with a file extension of ".dmg", for example:
-
-> Ricoh\_PS\_Printers\_Vol4\_EXP\_LIO\_4.0.0.0.dmg
 
 ![](/images/faq/netprinters-mac/driver-install/5.png)
 
@@ -65,19 +67,19 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 
 ## <a name="#setup"></a>Setup Printer
 
-Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Preferences…**:
+Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Settings…**:
 
-![](/images/faq/netprinters-mac/1.png)
+![](/images/faq/netprinters-mac/ventura-system-settings.png)
 
-Then go to **Printers & Scanners**:
+Then go to **Printers & Scanners** in the left sidebar:
 
-![](/images/faq/netprinters-mac/2.png)
+![](/images/faq/netprinters-mac/ventura-printers-and-scanners.png)
 
-Then click the plus (“+”) button at the bottom left of the list of printers (you may not have any listed yet):
+Then click the **Add Printer, Scanner, or Fax** button below the list of installed printers (you may not have any listed yet):
 
-![](/images/faq/netprinters-mac/3.png)
+![](/images/faq/netprinters-mac/ventura-add-printer.png)
 
-Next click the "globe" icon or **IP** button at the top:
+Next click the "globe" icon/button at the top:
 
 ![](/images/faq/netprinters-mac/4.png)
 
@@ -103,9 +105,9 @@ Type "7503" in the search box and then select **RICOH MP 7503 PS** and press 
 
 ![](/images/faq/netprinters-mac/9.png)
 
-That will install the printer. When it's done, click **Options & Supplies**:
+When it's done, click on the printer name and then click **Options & Supplies**:
 
-![](/images/faq/netprinters-mac/10.png)
+![](/images/faq/netprinters-mac/ricoh-options.png)
 
 Then in the **Options** tab, set the following options in the drop-down menus and click **OK**:
 
@@ -115,13 +117,17 @@ Then in the **Options** tab, set the following options in the drop-down menus an
 
 On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots.
 
-In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
+In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. If you see a **Show Details** button, click that:
 
 ![](/images/faq/netprinters-mac/12.png)
 
-Now find the drop-down menu that doesn't have a label next to it, in this case it says **Preview**. Click that and then select **Job Log**:
+Scroll down and click **Printer Options**:
 
-![](/images/faq/netprinters-mac/13.png)
+![](/images/faq/netprinters-mac/ricoh-printer-options-dialog.png)
+
+Then click on **Job Log**:
+
+![](/images/faq/netprinters-mac/ricoh-printer-options-job-log.png)
 
 Check the box next to **Enable User Code** and then enter your **Copy Code** in the box provided:
 
