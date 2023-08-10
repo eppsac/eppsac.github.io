@@ -17,9 +17,11 @@ Determine your operating system version by going to the Apple menu and selecting
 
 ![](/images/faq/netprinters-mac/driver-install/1.png)
 
-Note the version name and number, **Monterey 12.5** in this example:
+Note the version name and number, **Monterey 13.4.1** in this example:
 
-![](/images/faq/netprinters-mac/driver-install/2.png)
+![](/images/faq/netprinters-mac/ventura-about-this-mac.png)
+
+> If you are using an older version of macOS, some steps will look different.
 
 Open the following URL in a web browser:
 
@@ -27,17 +29,15 @@ Open the following URL in a web browser:
 
 Scroll down the page and click the ">" to expand the section for your version of "Mac OS" - if your exact version isn't listed, try the closest version you can find:
 
-![](/images/faq/netprinters-mac/konica/driver-install/1.png)
+![](/images/faq/netprinters-mac/konica-driver-os-selection.png)
 
-Click the link for the ".zip" file to save it to your computer (note I'm selecting the **Letter** option here, not **A4**):
+Click the link for the ".zip" file to save it to your computer:
 
-![](/images/faq/netprinters-mac/konica/driver-install/2.png)
+![](/images/faq/netprinters-mac/konica-driver-download.png)
 
 Find the file in Finder, which should be in your Downloads folder with a file extension of ".zip", for example:
 
-> 958\_658e\_558\_368\_367\_Series\_v11.60A\_Letter.zip
-
-![](/images/faq/netprinters-mac/konica/driver-install/3.png)
+![](/images/faq/netprinters-mac/konica-driver-open.png)
 
 Click to open that file and a new window will open. Open the new extracted files folder with the same name:
 
@@ -69,19 +69,19 @@ Follow the prompts to install the drivers, enter your local MacOS computer passw
 
 ## <a name="#setup"></a>Setup Printer
 
-Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Preferences…**:
+Once you’ve installed that, go to the Apple menu at the top left of the screen and choose **System Settings…**:
 
-![](/images/faq/netprinters-mac/1.png)
+![](/images/faq/netprinters-mac/ventura-system-settings.png)
 
-Then go to **Printers & Scanners**:
+Then go to **Printers & Scanners** in the left sidebar:
 
-![](/images/faq/netprinters-mac/2.png)
+![](/images/faq/netprinters-mac/ventura-printers-and-scanners.png)
 
-Then click the plus (“+”) button at the bottom left of the list of printers (you may not have any listed yet):
+Then click the **Add Printer, Scanner or Fax** button below the list of installed printers (you may not have any listed yet):
 
-![](/images/faq/netprinters-mac/3.png)
+![](/images/faq/netprinters-mac/ventura-add-printer.png)
 
-Next click the "globe" icon or **IP** button at the top:
+Next click the "globe" icon/button at the top:
 
 ![](/images/faq/netprinters-mac/4.png)
 
@@ -115,13 +115,17 @@ A window should open and ask for installed accessories, choose the following opt
 
 On a Mac, you have to enter your copy code when you print – you can’t specify it in the System Preferences. The steps to do that can vary by application, but it will commonly look like the below screenshots. 
 
-In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. Click **Show Details**:
+In **Preview**, for example, go to the **File** menu and choose **Print…** and you will see the print dialog box. If you see a **Show Details** button, click that:
 
 ![](/images/faq/netprinters-mac/12.png)
 
-Now find the drop-down menu that doesn't have a label next to it, in this case it says **Preview**. Click that and then select **Output Method**:
+Scroll down and click **Printer Options**:
 
-![](/images/faq/netprinters-mac/konica/7.png)
+![](/images/faq/netprinters-mac/konica-printer-options-dialog.png)
+
+Next click **Output Method**:
+
+![](/images/faq/netprinters-mac/konica-printer-options-output-method.png)
 
 Check the box next to **Account Track**:
 
