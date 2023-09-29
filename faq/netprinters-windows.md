@@ -17,13 +17,15 @@ Identify which printer you want to install. Here is a list of the available prin
 
 Next, download the driver for your operating system from Ricoh:
 
-[MP 6503SP/7503SP/9003SP Downloads - Ricoh Global](https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mp6503/mp6503.htm)
+[IM 7000/IM 8000/IM 9000 Downloads - Ricoh Global](http://support.ricoh.com/bb/html/dr_ut_e/re1/model/im7000/im7000.htm)
 
-On **Windows**, you can choose the **PCL6** driver.
+On **Windows**, you can choose the **PCL6** driver:
 
-## <a name="#drivers"></a>Extract the Drivers
+![](/images/faq/ricoh-win/pcl6.png)
 
-Now we need to extract the drivers. First open the **File Explorer**:
+## <a name="#install"></a>Install the Printer
+
+Now we need to run the file you just downloaded. First open the **File Explorer**:
 
 ![](/images/faq/Manual-Win10/1.png)
 
@@ -31,110 +33,77 @@ Then go to where you downloaded the file (this assumes your **Downloads** folder
 
 ![](/images/faq/Manual-Win10/Drivers/downloads.png)
 
-Double-click on the **.exe** file (it should start with ‘**z**‘ with some numbers and letters after it) and in the window that opens, change the end of the path to match below so that it says **c:\\temp\\ricoh** and press **Unzip**:
+Double-click on the **.exe** file (it should start with ‘**z**‘ with some numbers and letters after it). When prompted, select **Yes** to allow it to make changes to your computer. Then in the installation window, click **Agree and Go to Next**:
 
-![](/images/faq/Manual-Win10/z91790L16_d1g4D7Gy3L.png)
+![](/images/faq/ricoh-win/RV_SETUP_1.png)
 
-You should get a confirmation that it’s successful; click **OK**, and then click **Close**:
+Select **Network** and click **Next**:
 
-![](/images/faq/Manual-Win10/z91790L16_8TbDsinbpx.png)
+![](/images/faq/ricoh-win/RV_SETUP_2.png)
 
-![](/images/faq/Manual-Win10/z91790L16_Zx9xAycvZR.png)
+Click **Stop** and then **Click if you cannot find the device**:
 
-Note: If you didn’t change the path, take note of where the files are extracted to, it will be in the same temporary folder, but with ‘z’ and numbers and letters, like the example below:
+![](/images/faq/ricoh-win/RV_SETUP_3.png)
+![](/images/faq/ricoh-win/RV_SETUP_4.png)
 
-**c:\\temp\\z79059L16**
+Choose **Specify device IP address**:
 
-If you are installing more than one printer, you only need to download and extract the drivers once. Just repeat the steps for each from this point forward.
+![](/images/faq/ricoh-win/RV_SETUP_5.png)
 
-## <a name="add-printer"></a>Add the Printer
+Enter the IP Address of the printer that you want to install (see the top of this page) and then click **Next**:
 
-Open the Control Panel by clicking on the Start menu (Windows icon/logo menu in lower left corner) and type “**control panel**” to search (no need to click on anything, just start typing and then click on the match it finds at the top):
+![](/images/faq/ricoh-win/RV_SETUP_6.png)
 
-![](/images/faq/Manual-Win10/0.png)
+Click **Next** again:
 
-Depending on which Control Panel view you are in, click **View devices and printers** under **Hardware and Sound**, or just go straight to **Devices and Printers**:
+![](/images/faq/ricoh-win/RV_SETUP_7.png)
 
-![](/images/faq/Manual-Win10/3a.png)
+Click **Finish** (do not print a test page, it won't work without your user code):
 
-![](/images/faq/Manual-Win10/3c.png)
+![](/images/faq/ricoh-win/RV_SETUP_8.png)
 
-Once you are at **Devices and Printers**, click on **Add a printer**:
-
-![](/images/faq/Manual-Win10/4.png)
-
-Next click **The printer that I want isn’t listed:**
-
-![](/images/faq/Manual-Win10/5.png)
-
-Next choose **Add a local printer or network printer with manual settings:**
-
-![](/images/faq/Manual-Win10/rundll32_qlwJRO89yV.png)
-
-Choose **Create a new port** and for **Type of port** choose: **Standard TCP/IP Port**:
-
-![](/images/faq/Manual-Win10/rundll32_ctBGY9bjE1.png)
-
-Type in the **Hostname or IP address**, the **Port name** will be automatically filled in. _Uncheck_ the box that says **Query the printer and automatically select the driver to use** and then click **Next**:
-
-![](/images/faq/Manual-Win10/8.png)
-
-**NOTE –** Use the IP address below that corresponds with the printer that you want to install (only copy the numbers in bold at the top of this page, see the example in the screenshot above).
-
-On the next screen choose **Have Disk…**:
-
-![](/images/faq/Manual-Win10/9.png)
-
-Now you need to browse to where you extracted the drivers:
-
-![](/images/faq/Manual-Win10/10.png)
-
-If you used the default location, simply copy/paste the following in to the box at the bottom and press **OK**:
-
-**c:\\temp\\ricoh\\disk1\\**
-
-![](/images/faq/Manual-Win10/explorer_rkK45UstTP.png)
-
-If you extracted the drivers somewhere else, you’ll need to click **Browse** and find the **oemsetup** file, for example: “c:\\temp\\z79059L16\\disk1\\oemsetup”
-
-![](/images/faq/Manual-Win10/11.png)
-
-Next choose **Ricoh** from the list on the left, and **RICOH MP 7503 PCL 6** from the list on the right, and click **Next**:
-
-![](/images/faq/Manual-Win10/12.png)
-
-Give the printer a description/name:
-
-![](/images/faq/Manual-Win10/13.png)
-
-Choose **Do not share this printer** and click **Next**:
-
-![](/images/faq/Manual-Win10/14.png)
-
-Do not try to print a test page yet (it won’t work); click **Finish**:
-
-![](/images/faq/Manual-Win10/15.png)
 
 ## <a name="printing-prefs"></a>Set Printing Preferences
 
-Right-click on the printer you just installed and choose **Printing Preferences**:
+### Windows 11
 
-![](/images/faq/Manual-Win10/Preferences/1.png)
+Right-click on the Windows/Start menu and choose **Settings**:
 
-For the **GR3.706** and **GR2.818 (right)** printers, set your User Code by going to the **Detailed Settings** tab, choose **Job Setup** from the menu, and enter your **User Code** (should be 4 or 6 digits) and then press **Apply/OK**:
+![](/images/faq/ricoh-win/win11-settings-1.png)
 
-![](/images/faq/Manual-Win10/Preferences/user-code.png)
+Then go to **Bluetooth & devices**:
 
-For the **GR2.818 (left)** printer, do not set a User Code, instead you must select the **Locked Print** function from the **Job Type** menu and then click **Details**:
+![](/images/faq/ricoh-win/win11-settings.png)
 
-![](/images/faq/Manual-Win10/Preferences/locked-print-1.png)
+Click on the printer you just installed and choose **Printing Properties**:
 
-Now enter your **User ID** (6-digits) and **Password** (4-digits) and then press **OK**:
+![](/images/faq/ricoh-win/win11-printers-and-scanners-list.png)
+![](/images/faq/ricoh-win/win11-printer-properties.png)
 
-![](/images/faq/Manual-Win10/Preferences/locked-print-2.png)
+### Windows 10
 
-Then press **Apply/OK** to exit the Printing Preferences.
+Click on the Start menu (Windows icon/logo menu in lower left corner) and type “**devices and printers**” to search (no need to click on anything, just start typing and then click on the match it finds):
 
-Visit the following page to learn more about the Locked Print function and how to retrieve print jobs:
+![](/images/faq/win10-devices-and-printers.png)
 
-[How To Setup “Locked Print” On The EPPS Network Printers | EPPS Academic Computing](setup-locked-print.html)
+Find and select the printer you want to use. Right-click on the printer and choose **Printer Properties**:
+
+![](/images/faq/ricoh-win/win10-printer-properties.png)
+
+In the window that opens, first change the name of the printer to something unique, for example, the Ricoh machine that is to the Right side as you enter GR 2.818 can be named like this:
+
+![](/images/faq/ricoh-win/change-printer-name.png)
+
+Then click on **Preferences**:
+
+![](/images/faq/ricoh-win/printer-preferences.png)
+
+In the **Basic** tab, click **User Code Setting...**:
+
+![](/images/faq/ricoh-win/user-code-setting.png)
+
+Enter your user code and click **OK**:
+
+![](/images/faq/ricoh-win/user-code.png)
+
+And then click **OK** to close Printing Preferences and **OK** again to close the Printer Properties window.
