@@ -78,6 +78,7 @@ Then go to **Bluetooth & devices**:
 Click on the printer you just installed and choose **Printing Properties**:
 
 ![](/images/faq/ricoh-win/win11-printers-and-scanners-list.png)
+
 ![](/images/faq/ricoh-win/win11-printer-properties.png)
 
 ### Windows 10
@@ -93,6 +94,8 @@ Find and select the printer you want to use. Right-click on the printer and choo
 In the window that opens, first change the name of the printer to something unique, for example, the Ricoh machine that is to the Right side as you enter GR 2.818 can be named like this:
 
 ![](/images/faq/ricoh-win/change-printer-name.png)
+
+## Printing Preferences
 
 Then click on **Preferences**:
 
