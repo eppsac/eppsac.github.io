@@ -91,7 +91,9 @@ Find and select the printer you want to use. Right-click on the printer and choo
 
 ![](/images/faq/ricoh-win/win10-printer-properties.png)
 
-In the window that opens, first change the name of the printer to something unique, for example, the Ricoh machine that is to the Right side as you enter GR 2.818 can be named like this:
+## Printer Properties
+
+In the window that opens, first change the name of the printer to something unique, for example, the Ricoh machine that is to the "right" side as you enter GR 2.818 can be named like this:
 
 ![](/images/faq/ricoh-win/change-printer-name.png)
 
@@ -110,3 +112,9 @@ Enter your user code and click **OK**:
 ![](/images/faq/ricoh-win/user-code.png)
 
 And then click **OK** to close Printing Preferences and **OK** again to close the Printer Properties window.
+
+## Locked Print
+
+If you would like to set the preferences so that your print job is held/locked until you go to the printer and release it, in the **Basic** tab in the previous step, click **Modify** next to **Job Type**. Then select **Locked Print**, enter your NetID next to **Enter User ID**. For the **Password**, you can set that to be the same as your copy code:
+
+![](/images/faq/ricoh-win/locked-print.png)
