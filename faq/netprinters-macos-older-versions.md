@@ -25,7 +25,7 @@ Note the version name and number, "**Monterey 12.5**" in this example:
 
 Open the following URL in a web browser:
 
-[MP 6503SP/7503SP/9003SP Downloads - Ricoh Global](https://support.ricoh.com/bb/html/dr_ut_e/rc3/model/mp6503/mp6503.htm)
+[IM 7000/IM 8000/IM9000 Downloads - Ricoh Global](http://support.ricoh.com/bb/html/dr_ut_e/re1/model/im7000/im7000.htm)
 
 Scroll down the page and expand the "Mac OS X" section and select your version:
 
@@ -37,31 +37,27 @@ Click the "Download" button to save the file to your computer:
 
 Find the installation file in Finder, which should be in your Downloads folder with a file extension of ".dmg", for example:
 
-> Ricoh\_PS\_Printers\_Vol4\_EXP\_LIO\_4.0.0.0.dmg
-
-![](/images/faq/netprinters-mac/driver-install/5.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.36.20 AM.png)
 
 Click to open that file and a new window will open. Double-click the ".pkg" file inside to start the installation:
 
-![](/images/faq/netprinters-mac/driver-install/6.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.37.44 AM.png)
 
-Follow the prompts to install the drivers, enter your local MacOS computer password when prmopted (or use your fingerprint if you have TouchID), finish the installation, and then you can select to "Move to Trash" at the end:
+Follow the prompts to install the drivers, enter your local MacOS computer password when prmopted (or use your fingerprint if you have TouchID), finish the installation, and then you can select the "Move to Trash" option at the end:
 
-![](/images/faq/netprinters-mac/driver-install/7.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.37.57 AM.png)
 
-![](/images/faq/netprinters-mac/driver-install/8.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.38.15 AM.png)
 
-![](/images/faq/netprinters-mac/driver-install/9.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.38.36 AM.png)
 
-![](/images/faq/netprinters-mac/driver-install/10.png)
+![](/images/faq/netprinters-macim7000/Screenshot 2023-10-03 at 8.38.48 AM.png)
 
-![](/images/faq/netprinters-mac/driver-install/11.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.39.07 AM.png)
 
-![](/images/faq/netprinters-mac/driver-install/12.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.39.28 AM.png)
 
 ![](/images/faq/netprinters-mac/driver-install/13.png)
-
-
 
 ## <a name="#setup"></a>Setup Printer
 
@@ -93,15 +89,15 @@ Change the name to something you will recognize (otherwise it will default to th
 
 In the "Use" drop-down box, see if the correct driver is automatically detected and selected:
 
-![](/images/faq/netprinters-mac/7.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.41.16 AM.png)
 
 If it is not already selected, click **Select Software…**:
 
 ![](/images/faq/netprinters-mac/8.png)
 
-Type "7503" in the search box and then select **RICOH MP 7503 PS** and press **OK**:
+Type "7000" in the search box and then select **RICOH IM 7000 PS** and press **OK**:
 
-![](/images/faq/netprinters-mac/9.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.41.44 AM.png)
 
 That will install the printer. When it's done, click **Options & Supplies**:
 
@@ -109,7 +105,7 @@ That will install the printer. When it's done, click **Options & Supplies**:
 
 Then in the **Options** tab, set the following options in the drop-down menus and click **OK**:
 
-![](/images/faq/netprinters-mac/11.png)
+![](/images/faq/netprinters-mac/im7000/Screenshot 2023-10-03 at 8.42.36 AM.png)
 
 ## <a name="#code-and-preset"></a>Copy Code and Presets
 
@@ -140,12 +136,6 @@ Give the preset a name, and click **OK**:
 That will take you back to the print dialog box. Make sure other options like number of copies and 2-sided are set as needed, and then click **Print** to send the job to the printer:
 
 ![](/images/faq/netprinters-mac/17.png)
-
-## Locked Print
-
-If you are using the printer to the left as you walk in **GR 2.818** (10.152.40.30), you need to use the **Locked Print** function instead of **Normal Print**:
-
-[How To Setup “Locked Print” On The EPPS Network Printers](setup-locked-print.html)
 
 ## <a name="#other-apps"></a>Other Applications
 
