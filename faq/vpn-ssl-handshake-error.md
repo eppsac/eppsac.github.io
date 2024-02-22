@@ -1,3 +1,9 @@
+# NOTICE
+
+The information below should no longer be necessary if you are using Ubuntu 23.10 or higher and GlobalProtect 6.1+. To install the GlobalProtect VPN client on Linux for UTD, follow the instructions here:
+
+> [https://atlas.utdallas.edu/TDClient/30/Portal/KB/ArticleDet?ID=235](https://atlas.utdallas.edu/TDClient/30/Portal/KB/ArticleDet?ID=235https:/)
+
 # SSL Handshake Error using GlobalProtect VPN on Linux
 
 ```
@@ -86,5 +92,6 @@ After that, you shouldn’t have to run gpclient from the command line anymore, 
 
 References for this workaround:
  
+
 - [https://github.com/yuezk/GlobalProtect-openconnect/issues/163#issuecomment-1165159733](https://github.com/yuezk/GlobalProtect-openconnect/issues/163#issuecomment-1165159733)
 - [https://github.com/yuezk/GlobalProtect-openconnect/wiki/Configuration#example](https://github.com/yuezk/GlobalProtect-openconnect/wiki/Configuration#example)
