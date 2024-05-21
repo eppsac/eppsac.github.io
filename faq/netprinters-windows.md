@@ -9,7 +9,8 @@ Identify which printer you want to install. Here is a list of the available prin
 
 **Note:** Only copy/paste the IP address (numbers) in **bold**
 
-*   **10.152.42.25** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865))
+*   **10.152.42.25** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865) on the right)
+*   **10.152.42.34** (in [GR 3.706](https://map.concept3d.com/?id=1772#!m/550865) straight ahead)
 *   **10.152.40.29** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the right)
 *   **10.152.40.30** (in [GR 2.818](https://map.concept3d.com/?id=1772#!m/550792) on the left)
 
