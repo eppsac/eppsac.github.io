@@ -3,6 +3,12 @@ How To Setup The Ricoh Network Printers on Windows
 
 There are several Ricoh network printers which EPPS faculty, staff, lecturers, and teaching assistants (who are teaching a course) may use. To use them, you must have a valid copy code. To install them on your computer, follow this guide.
 
+## WiFi Note
+
+If your computer uses wireless networking, printing does *not* work if using the **UTDGuest** network. You must be connected to **CometNet** (or **CometNet_Legacy**):
+
+[https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=170](https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=170)
+
 ## Identify Printer
 
 Identify which printer you want to install. Here is a list of the available printers:
