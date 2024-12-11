@@ -82,6 +82,10 @@ Then go to **Bluetooth & devices**:
 
 ![](/images/faq/ricoh-win/win11-settings.png)
 
+Then select **Printers & Scanners**:
+
+![](/images/faq/Win11-Printers-and-Scanners.png)
+
 Click on the printer you just installed and choose **Printing Properties**:
 
 ![](/images/faq/ricoh-win/win11-printers-and-scanners-list.png)
