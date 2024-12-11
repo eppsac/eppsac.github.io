@@ -92,6 +92,8 @@ Click on the printer you just installed and choose **Printing Properties**:
 
 ![](/images/faq/ricoh-win/win11-printer-properties.png)
 
+Skip the Windows 10 section below and continue with the **Printer Properties** and **Printing Preferences** sections.
+
 ### Windows 10
 
 Click on the Start menu (Windows icon/logo menu in lower left corner) and type “**devices and printers**” to search (no need to click on anything, just start typing and then click on the match it finds):
