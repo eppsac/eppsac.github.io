@@ -86,9 +86,9 @@ Then select **Printers & Scanners**:
 
 ![](/images/faq/Win11-Printers-and-Scanners.png)
 
-Click on the printer you just installed and choose **Printing Properties**:
+Click on the printer you just installed and choose **Printer Properties**:
 
-![](/images/faq/ricoh-win/win11-printers-and-scanners-list.png)
+![](/images/faq/ricoh-win/listofprinters.png)
 
 ![](/images/faq/ricoh-win/win11-printer-properties.png)
 
