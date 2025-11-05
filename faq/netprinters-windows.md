@@ -126,7 +126,7 @@ Enter your user code and click **OK**:
 
 And then click **OK** to close Printing Preferences and **OK** again to close the Printer Properties window.
 
-## Locked Print
+## Locked Print (Optional)
 
 If you would like to set the preferences so that your print job is held and locked until you go to the printer and release it, in the **Basic** tab in the previous step, set the **User code setting** if it's not already enterd and then click **Modify** next to **Job Type**. Then select **Locked Print**, enter your NetID next to **Enter User ID**. For the **Password**, you can set that to be the same as your copy code:
 
