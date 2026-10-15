@@ -9,6 +9,10 @@ If your computer uses wireless networking, printing does *not* work if using the
 
 [https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=170](https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=170)
 
+## MacOS 27 "Golden Gate" Note
+
+As of October 2026, Ricoh has not provided a driver specific to MacOS version 27. If you have version 27 installed, you will need to install Rosetta first - use these instructions to install it using the Terminal: [https://support.apple.com/en-us/102527](https://support.apple.com/en-us/102527). Then download and install the latest available driver from Ricoh (instructions below).
+
 ## Identify Printer
 
 Identify which printer you want to install. Here is a list of the available printers:
